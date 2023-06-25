@@ -1,4 +1,4 @@
-server = 'intel1.database.windows.net'
+server = 'sql21.eastus.cloudapp.azure.com'
 ddatabase = 'intellipaat'
-username = 'intel'
-password = 'Paat@123'
+username = 'nive'
+password = 'Myb@21aug1990'
